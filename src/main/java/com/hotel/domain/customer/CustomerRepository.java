@@ -1,6 +1,6 @@
-package com.hotel.repository;
+package com.hotel.domain.customer;
 
-import com.hotel.model.Customer;
+import com.hotel.domain.customer.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
